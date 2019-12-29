@@ -1,7 +1,7 @@
 # DSMLBC
 Data Science and Machine Learning Bootcamp
 
-Hızlandırılmış online-canlı ve mentör destekli Veri Bilimi Uzmanlığı programı.
+Hızlandırılmış online-canlı ve mentor destekli Veri Bilimi Uzmanlığı programı.
 
 
 # Profesyonel Veri Bilimi Eğitimi
