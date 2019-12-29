@@ -3,6 +3,7 @@ Data Science and Machine Learning Bootcamp
 
 Hızlandırılmış online-canlı ve mentor destekli Veri Bilimi Uzmanlığı programı.
 
+Eğitim Mustafa Vahit Keskin tarafından online-canlı olarak verilecektir.
 
 # Profesyonel Veri Bilimi Eğitimi
 
@@ -54,9 +55,9 @@ Geçmiş yıllardaki katılımcıların profilleri incelendiğinde üniversite �
 
 # Mentor sistemi ne demek katılımcılara ne gibi bir faydası olur?
 
-Mentor: İlgili kişilere bilgi ve tecrübesini aktaran ve danışmanlık yapan kişilere mentor denir. 
+Eğitimde tüm modüllerin sonlarında bölüm tamamlama soruları, ödevler ve projeler yer alacak. Tüm bu sorumlulukları yerine getirmesi beklenen katılımcılara karşılaştıkları problemler için yol arkadaşlığı edecek mentorlar yer alacak ve mentorlara anlık olarak ulaşılabilecek.
 
-Tüm eğitim boyunca eğitimde verilen bölüm sonu soruları, çözülmesi gereken sorular ve yapılacak projelerde sizinle sürekli ilgilenecek olan mentorlar.
+Bununla birlikte mentorların haftalık düzenleyeceği problem çözümü ofis saatleri ile katılımcıların bir sonraki derse geçmeden önce tüm problemleri çözülmüş olacak.
 
 # Eğitim ne kadar sürecek?
 
