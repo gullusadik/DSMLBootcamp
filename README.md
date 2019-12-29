@@ -15,6 +15,8 @@ Data Science and Machine Learning Bootcamp
 
 - Eğitim 1 Şubat 2020 - 1 Temmuz 2020 arasında gerçekleşecektir.
 
+[link to Google!](http://google.com)
+
 
 # Eğitim kaç saat? 
 
