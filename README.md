@@ -91,4 +91,5 @@ Not: Videolar derslerin kayıtları değil özenle hazırlanmış video eğitim 
 Aşağıdaki iletişim bilgilerini kullanabilirsiniz:
 
 veribilimiokulu@gmail.com
+
 +46 73 964 65 23
