@@ -1,11 +1,16 @@
 # DSMLBC
 Data Science and Machine Learning Bootcamp
 
+# Özet 
+
 - Hızlandırılmış online-canlı ve mentor destekli Veri Bilimi Uzmanlığı programı.
 
 - Eğitim Veri Bilimi Okulu eğitmenlerinden Mustafa Vahit Keskin tarafından online-canlı olarak verilecektir.
 
 - Derslerin özel prodüksiyon video formatları bir platform aracılığı ile ücretsiz olarak sunulacaktır. Böylece katılımcılar kursa katılımlarını kendi uygunluklarına göre planlayabilecektir. Diğer bir ifade ile online-canlı tüm derslerin özenle hazırlanmış video kayıtları olacaktır.
+
+- Eğitim 1 Şubat 2020 - 1 Temmuz 2020 arasında gerçekleşecektir.
+
 
 # Profesyonel Veri Bilimi Eğitimi
 
