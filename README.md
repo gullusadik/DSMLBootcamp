@@ -11,7 +11,7 @@ Data Science and Machine Learning Bootcamp
 
 - Eğitim sonunda 15+ gerçek hayat veri bilimi projesi tamamlanmış olacaktır.
 
-- Eğitim ile programlama, makine öğrenmesi, büyük veri, istatistik ve diğer birçok veri bilimi bileşeni ele alınacaktır.
+- Eğitim ile programlama, veri tabanları, makine öğrenmesi, büyük veri, istatistik ve diğer birçok veri bilimi bileşeni ele alınacaktır.
 
 - Eğitim 1 Şubat 2020 - 1 Temmuz 2020 arasında gerçekleşecektir.
 
@@ -20,11 +20,11 @@ Data Science and Machine Learning Bootcamp
 
 - 60 Saat Online Canlı Eğitim
 - 30 Saat Problem Çözümü
-- 30 Saat Ofis Buluşması
+- 30 Saat Ofis Saati Buluşması
 
 # Problem çözümü ne anlama gelmektedir?
 
-Eğitmen tarafından verilen ödevler, modül bitirme soruları ve projeler Problem Çözümü ve Ofis Saatlerinde mentorlar tarafından ele alınacaktır. (katılım zorunlu değil)
+Eğitmen tarafından verilen ödevler, modül bitirme soruları ve projeler Problem Çözümü ve Ofis Saatlerinde mentorlar tarafından ele alınacaktır. (katılım zorunlu değildir)
 
 # Ödev, modül bitirme sorusu ve projeler ile ilgili bilgi verebilir misiniz?
 
@@ -117,11 +117,9 @@ Not: Videolar derslerin kayıtları değil özenle hazırlanmış video eğitim 
 
 
 
-
-
 # Eğitimin ücreti ne kadar?
 
-Aşağıdaki iletişim bilgilerini kullanabilirsiniz:
+Eğitim fiyatları için iletişim bilgileri:
 
 veribilimiokulu@gmail.com
 
