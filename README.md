@@ -119,8 +119,8 @@ Not: Videolar derslerin kayıtları değil özenle hazırlanmış video eğitim 
 
 # Eğitimin ücreti ne kadar?
 
-Eğitim fiyatları için iletişim bilgileri:
+Bilgi için:
 
-veribilimiokulu@gmail.com
+m.v.k@msn.com
 
 +46 73 964 65 23
