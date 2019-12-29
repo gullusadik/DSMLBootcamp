@@ -3,7 +3,7 @@ Data Science and Machine Learning Bootcamp
 
 # Özet 
 
-- Eğitim Veri Bilimi Okulu eğitmenlerinden Mustafa Vahit Keskin tarafından online-canlı olarak verilecektir.
+- Eğitim Veri Bilimi ve Yapay Zeka alanında eğitim ve danışmanlık hizmetleri veren Veri Bilimi Okulu ve Mustafa Vahit Keskin tarafından online-canlı olarak verilecektir.
 
 - Hızlandırılmış online-canlı ve mentor destekli Veri Bilimi Uzmanlığı programıdır.
 
@@ -14,7 +14,7 @@ Data Science and Machine Learning Bootcamp
 - Eğitim 1 Şubat 2020 - 1 Temmuz 2020 arasında gerçekleşecektir.
 
 
-# Profesyonel Veri Bilimi Eğitimi
+# Sayılarla eğitim:
 
 - 60 Saat Online Canlı Eğitim
 - 30 Saat Problem Çözümü
@@ -84,6 +84,28 @@ Online-canlı derslerde ele alınacak olan konuların birebir video versiyonlar�
 Bu sistemin bir diğer faydası online-canlı derslerde yeterli verimi alamayanlar istedikleri kadar tekrar etme imkanı ile video dersleri izleyebilecekler.
 
 Not: Videolar derslerin kayıtları değil özenle hazırlanmış video eğitim dersleri olacak. Bu içerikler online-canlı derslerde anlatılan derslerin birebir aynı içerikleri olacaktır.
+
+# Uygulamalar nelerdir?
+
+- Makine Öğrenmesi ile Şeker Hastalığı Tahmini
+- Kurumsal Müşteri Terk Modellemesi
+- Duygu Sınıflandırma Modeli
+- Kredi Risk Modellemesi
+- Fiyat Stratejisi Karar Destek Sistemi
+- Reklam Harcaması Optimizasyonu
+- İlan Girişi Hata Olasılıklarının Hesaplanması
+- Ürün Satış Olasılıklarının Hesaplanması
+- Ürün Satın Alma Adım Optimizasyonu
+- Web Sitesinde Geçirilen Sürenin Testi
+- Dönüşüm Oranı Testi
+- ML Modelinin Başarı Testi
+- Şirketiçi Eğitimin Performans Etkisi Ölçümü
+- Kullanıcı Arayüzü Tasarımı Testi
+- Anasayfa İçerik Stratejisi Belirleme
+- Reklam Harcamaları ve Satış Arasındaki İlişkinin Modellenmesi 
+- Beyzbol Oyuncuları için Maaş Tahmin Modeli
+- ABD Eyalet Segmentasyonu
+
 
 
 # Eğitimin ücreti ne kadar?
