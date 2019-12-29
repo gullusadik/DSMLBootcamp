@@ -11,6 +11,8 @@ Data Science and Machine Learning Bootcamp
 
 - Eğitim sonunda 15+ gerçek hayat veri bilimi projesi tamamlanmış olacaktır.
 
+- Eğitim ile programlama, makine öğrenmesi, büyük veri, istatistik ve diğer birçok veri bilimi bileşeni ele alınacaktır.
+
 - Eğitim 1 Şubat 2020 - 1 Temmuz 2020 arasında gerçekleşecektir.
 
 
