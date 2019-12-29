@@ -3,9 +3,9 @@ Data Science and Machine Learning Bootcamp
 
 - Hızlandırılmış online-canlı ve mentor destekli Veri Bilimi Uzmanlığı programı.
 
-- Eğitim Mustafa Vahit Keskin tarafından online-canlı olarak verilecektir.
+- Eğitim Veri Bilimi Okulu eğitmenlerinden Mustafa Vahit Keskin tarafından online-canlı olarak verilecektir.
 
-- Eğitimin özel prodüksiyon video formatı bir platform aracılığı ile ücretsiz olarak sunulacak. Böylece katılımcılar kursa katılımlarını kendi uygunluklarına göre planlayabilecek. Diğer bir ifade ile online-canlı tüm derslerin özenle hazırlanmış video kayıtları olacak.
+- Derslerin özel prodüksiyon video formatları bir platform aracılığı ile ücretsiz olarak sunulacaktır. Böylece katılımcılar kursa katılımlarını kendi uygunluklarına göre planlayabilecektir. Diğer bir ifade ile online-canlı tüm derslerin özenle hazırlanmış video kayıtları olacaktır.
 
 # Profesyonel Veri Bilimi Eğitimi
 
