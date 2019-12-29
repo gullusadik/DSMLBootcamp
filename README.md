@@ -3,7 +3,7 @@ Data Science and Machine Learning Bootcamp
 
 # Özet 
 
-- Eğitim Veri Bilimi ve Yapay Zeka alanında eğitim ve danışmanlık hizmetleri veren Veri Bilimi Okulu (https://www.veribilimiokulu.com) ve Mustafa Vahit Keskin (https://www.linkedin.com/in/mvahitkeskin/) tarafından online-canlı olarak verilecektir.
+- Eğitim Veri Bilimi ve Yapay Zeka alanında eğitim ve danışmanlık hizmetleri veren [Veri Bilimi Okulu](https://www.veribilimiokulu.com) ve [Mustafa Vahit Keskin](https://www.linkedin.com/in/mvahitkeskin/) tarafından online-canlı olarak verilecektir.
 
 - Hızlandırılmış online-canlı ve mentor destekli Veri Bilimi Uzmanlığı programıdır.
 
@@ -15,7 +15,7 @@ Data Science and Machine Learning Bootcamp
 
 - Eğitim 1 Şubat 2020 - 1 Temmuz 2020 arasında gerçekleşecektir.
 
-[link to Google!](http://google.com)
+
 
 
 # Eğitim kaç saat? 
