@@ -20,7 +20,11 @@ Data Science and Machine Learning Bootcamp
 - 30 Saat Problem Çözümü
 - 30 Saat Ofis Buluşması
 
+# Problem çözümü ne anlama gelmektedir?
 
+Eğitmen tarafından verilen ödevler, modül bitirme soruları ve projeler Problem Çözümü ve Ofis Saatlerinde mentorlar tarafından ele alınacaktır. (katılım zorunlu değil)
+
+# Ödev, modül bitirme sorusu ve projeler ile ilgili bilgi verebilir misiniz?
 
 - 600 Soru-Alıştırma
 - 200 Ödev
