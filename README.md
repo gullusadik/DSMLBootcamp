@@ -15,8 +15,7 @@ Data Science and Machine Learning Bootcamp
 
 - Eğitim 1 Şubat 2020 - 1 Temmuz 2020 arasında gerçekleşecektir.
 
-
-# Başvuru:
+Başvuru:
 
 Eğitime katılım için başvuru formunun doldurulması gerekmektedir. [Başvur](https://docs.google.com/forms/d/e/1FAIpQLScXBuvPeOnoXrqZ8UpvmCrU4AkkVS73EZQsKUJ6oX5EBuZx-w/viewform?usp=sf_link)
 
