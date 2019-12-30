@@ -125,7 +125,7 @@ Not: Videolar derslerin kayıtları değil özenle hazırlanmış video eğitim 
 
 ## Eğitimin ücreti ne kadar?
 
-300 Euro
+400 Euro
 
 # Başvuru:
 
