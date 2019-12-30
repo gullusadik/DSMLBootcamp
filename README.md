@@ -67,7 +67,7 @@ Eğitmen tarafından verilen ödevler, modül bitirme soruları ve projeler Prob
 
 - Aktif öğrenme süreci: Alıştırmalar-ödevler ve projeler
 
-- Mentor desteği: Tüm katılımcılara mentorler tarafından birebir destek 
+- Mentor desteği: Tüm katılımcılara mentorlar tarafından birebir destek 
 
 - Kendi programını kendin belirle: Tüm derslerin özenle hazırlanmış
   video versiyonları ile müsaitliğe göre çalışma imkanı
