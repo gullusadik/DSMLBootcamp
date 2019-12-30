@@ -18,21 +18,22 @@ Data Science and Machine Learning Bootcamp
 
 # Başvuru:
 
-[Eğitime katılım için başvuru formunun doldurulması gerekmektedir:](https://docs.google.com/forms/d/e/1FAIpQLScXBuvPeOnoXrqZ8UpvmCrU4AkkVS73EZQsKUJ6oX5EBuZx-w/viewform?usp=sf_link)
+Eğitime katılım için başvuru formunun doldurulması gerekmektedir. [Başvur:] (https://docs.google.com/forms/d/e/1FAIpQLScXBuvPeOnoXrqZ8UpvmCrU4AkkVS73EZQsKUJ6oX5EBuZx-w/viewform?usp=sf_link)
 
 
+# Detaylı Bilgiler
 
-# Eğitim kaç saat? 
+## Eğitim kaç saat? 
 
 - 60 Saat Online Canlı Eğitim
 - 30 Saat Problem Çözümü
 - 30 Saat Ofis Saati Buluşması
 
-# Problem çözümü ne anlama gelmektedir?
+## Problem çözümü ne anlama gelmektedir?
 
 Eğitmen tarafından verilen ödevler, modül bitirme soruları ve projeler Problem Çözümü ve Ofis Saatlerinde mentorlar tarafından ele alınacaktır. (katılım zorunlu değildir)
 
-# Ödev, modül bitirme sorusu ve projeler ile ilgili bilgi verebilir misiniz?
+## Ödev, modül bitirme sorusu ve projeler ile ilgili bilgi verebilir misiniz?
 
 - 600 Soru-Alıştırma
 - 200 Ödev
@@ -40,7 +41,7 @@ Eğitmen tarafından verilen ödevler, modül bitirme soruları ve projeler Prob
 - 4 Uçtan-Uca Gerçek Hayat Veri Bilimi Projesi
 - 1 Kurs Bitirme Projesi
 
-# Eğitimde hangi projeler yapılacak?
+## Eğitimde hangi projeler yapılacak?
 
 - Makine Öğrenmesi ile Şeker Hastalığı Tahmini
 - Kurumsal Müşteri Terk Modellemesi
@@ -62,7 +63,7 @@ Eğitmen tarafından verilen ödevler, modül bitirme soruları ve projeler Prob
 - ABD Eyalet Segmentasyonu
 
 
-# Eğitim nasıl ele alınacak?
+## Eğitim nasıl ele alınacak?
 
 - Aktif öğrenme süreci: Alıştırmalar-ödevler ve projeler
 
@@ -75,7 +76,7 @@ Eğitmen tarafından verilen ödevler, modül bitirme soruları ve projeler Prob
 içerik üretme stratejileri gibi konularda modern kariyer koçluğu
 
 
-# Eğitim konuları nelerdir?
+## Eğitim konuları nelerdir?
 
 * Veri Bilimi ve Yapay Zekaya Giriş
 * Python Programlama
@@ -90,30 +91,30 @@ içerik üretme stratejileri gibi konularda modern kariyer koçluğu
 * Büyük Veri Analitiği
 * Veri Bilimi Proje Yönetimi
 
-# Eğitimin hedef kitlesi kimdir?
+## Eğitimin hedef kitlesi kimdir?
 
 Veri bilimi ve yapay zeka alanlarında kariyer planı yapan kişiler.
 
-# Bu eğitim bana uygun mudur?
+## Bu eğitim bana uygun mudur?
 
 Geçmiş yıllardaki katılımcıların profilleri incelendiğinde üniversite çıkış bölümü eşit ağırlık ya da sayısal olanların daha başarılı olduğu gözlemlenmektedir. 
 
-# Mentor sistemi ne demek katılımcılara ne gibi bir faydası olur?
+## Mentor sistemi ne demek katılımcılara ne gibi bir faydası olur?
 
 Eğitimde tüm modüllerin sonlarında bölüm tamamlama soruları, ödevler ve projeler yer alacak. Tüm bu sorumlulukları yerine getirmesi beklenen katılımcılara karşılaştıkları problemler için yol arkadaşlığı edecek mentorlar yer alacak ve mentorlara anlık olarak ulaşılabilecek.
 
 Bununla birlikte mentorların haftalık düzenleyeceği problem çözümü ofis saatleri ile katılımcıların bir sonraki derse geçmeden önce tüm problemleri çözülmüş olacak.
 
-# Eğitim ne kadar sürecek?
+## Eğitim ne kadar sürecek?
 
 Eğitim 1 Şubat tarihinde başlayacak ve 1 Temmuz’da tamamlanacaktır.
 
-# Eğitim nerede gerçekleştirilecektir?
+## Eğitim nerede gerçekleştirilecektir?
 
 Eğitim online-canlı olarak gerçekleştirilecektir. Dersler zoom benzeri ortamlarda gerçekleştirilecektir.
 
 
-# “Kendi programını kendin belirle” sistemi nasıl işleyecek?
+## “Kendi programını kendin belirle” sistemi nasıl işleyecek?
 
 Online-canlı derslerde ele alınacak olan konuların birebir video versiyonları kullanılabilecek. Videolar ücretsiz erişim imkanı verecek olduğumuz online eğitim sistemimizde yer alacak. Böylece haftalık online-canlı derslere katılamayanlar derslerin birebir video versiyonlarını izleyerek programdan geri kalmamış olacaklar.
 
@@ -123,10 +124,14 @@ Not: Videolar derslerin kayıtları değil özenle hazırlanmış video eğitim 
 
 
 
-# Eğitimin ücreti ne kadar?
+## Eğitimin ücreti ne kadar?
 
 Bilgi için:
 
 m.v.k@msn.com
 
 +46 73 964 65 23
+
+# Başvuru:
+
+Eğitime katılım için başvuru formunun doldurulması gerekmektedir. [Başvur:] (https://docs.google.com/forms/d/e/1FAIpQLScXBuvPeOnoXrqZ8UpvmCrU4AkkVS73EZQsKUJ6oX5EBuZx-w/viewform?usp=sf_link)
