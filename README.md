@@ -13,7 +13,7 @@ Data Science and Machine Learning Bootcamp
 
 - Eğitim ile programlama, veri tabanları, makine öğrenmesi, büyük veri, istatistik ve diğer birçok veri bilimi bileşeni ele alınacaktır.
 
-- Eğitim 1 Şubat 2020 - 1 Temmuz 2020 arasında gerçekleşecektir.
+- Eğitim 1 Şubat 2020 - 1 Temmuz 2020 arasında gerçekleşecektir. (Anket sonuçlarına göre değişebilecektir)
 
 Başvuru:
 
