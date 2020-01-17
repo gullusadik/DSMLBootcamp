@@ -106,7 +106,7 @@ Bununla birlikte mentorların haftalık düzenleyeceği problem çözümü ofis 
 
 ## Eğitim ne kadar sürecek?
 
-Eğitim 1 Şubat tarihinde başlayacak ve 1 Temmuz’da tamamlanacaktır.
+Eğitim 1 Şubat tarihinde başlayacak ve 1 Temmuz’da tamamlanacaktır. (Süreler değişebilecektir)
 
 ## Eğitim nerede gerçekleştirilecektir?
 
