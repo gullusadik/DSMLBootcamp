@@ -1,3 +1,6 @@
+2020 1. dönem kayıtları kapanmıştır. 2. dönem ön kayıt için dsmlbc2020@gmail.com adresine mail atınız.
+
+
 # DSMLBC
 Data Science and Machine Learning Bootcamp
 
@@ -13,7 +16,7 @@ Data Science and Machine Learning Bootcamp
 
 - Eğitim ile programlama, veri tabanları, makine öğrenmesi, büyük veri, istatistik ve diğer birçok veri bilimi bileşeni ele alınacaktır.
 
-- Eğitim 1 Şubat 2020 - 1 Temmuz 2020 arasında gerçekleşecektir. (Anket sonuçlarına göre değişebilecektir)
+- Eğitim 28 Ocak 2020 - 22 Nisan 2020 arasında gerçekleşecektir. 
 
 Başvuru:
 
@@ -24,7 +27,7 @@ Eğitime katılım için başvuru formunun doldurulması gerekmektedir. [Başvur
 
 ## Eğitim kaç saat? 
 
-- 60 Saat Online Canlı Eğitim
+- 75 Saat Online Canlı Eğitim
 - 30 Saat Problem Çözümü
 - 30 Saat Ofis Saati Buluşması
 
@@ -106,7 +109,7 @@ Bununla birlikte mentorların haftalık düzenleyeceği problem çözümü ofis 
 
 ## Eğitim ne kadar sürecek?
 
-Eğitim 1 Şubat tarihinde başlayacak ve 1 Temmuz’da tamamlanacaktır. (Süreler değişebilecektir)
+Eğitim 28 Ocak tarihinde başlayacak ve 22 Nisan tarihinde tamamlanacaktır. (Süreler değişebilecektir)
 
 ## Eğitim nerede gerçekleştirilecektir?
 
@@ -121,11 +124,6 @@ Bu sistemin bir diğer faydası online-canlı derslerde yeterli verimi alamayanl
 
 Not: Videolar derslerin kayıtları değil özenle hazırlanmış video eğitim dersleri olacak. Bu içerikler online-canlı derslerde anlatılan derslerin birebir aynı içerikleri olacaktır.
 
-
-
-## Eğitimin ücreti ne kadar?
-
-300 Euro
 
 # Başvuru:
 
