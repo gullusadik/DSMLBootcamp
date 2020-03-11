@@ -1,4 +1,7 @@
-2020 1. dönem kayıtları kapanmıştır. 2. dönem ön kayıt için dsmlbc2020@gmail.com adresine mail atınız.
+2020 1. dönem kayıtları kapanmıştır. 2. dönem ön kayıt için dsmlbc2020@gmail.com adresine mail atınız ya da aşağıdaki formu doldurunuz:
+[Başvur](https://docs.google.com/forms/d/e/1FAIpQLScXBuvPeOnoXrqZ8UpvmCrU4AkkVS73EZQsKUJ6oX5EBuZx-w/viewform?usp=sf_link)
+
+
 
 
 # DSMLBC
