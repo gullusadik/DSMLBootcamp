@@ -3,7 +3,7 @@
 [Başvuru formunu doldur](https://docs.google.com/forms/d/e/1FAIpQLScXBuvPeOnoXrqZ8UpvmCrU4AkkVS73EZQsKUJ6oX5EBuZx-w/viewform?usp=sf_link)
 
 
-
+Eğitim ücreti 1800 Euro + KDV'dir.
 
 # DSMLBC
 Data Science and Machine Learning Bootcamp
