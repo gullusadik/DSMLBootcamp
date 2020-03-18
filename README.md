@@ -31,7 +31,7 @@ Eğitime katılım için başvuru formunun doldurulması gerekmektedir. [Başvur
 
 ## Eğitim kaç saat? 
 
-- 75 Saat Online Canlı Eğitim
+- 60 Saat Online Canlı Eğitim
 - 30 Saat Problem Çözümü
 - 30 Saat Ofis Saati Buluşması
 
