@@ -39,10 +39,8 @@ Eğitmen tarafından verilen ödevler, modül bitirme soruları ve projeler Prob
 
 ## Ödev, modül bitirme sorusu ve projeler ile ilgili bilgi verebilir misiniz?
 
-- 600 Soru-Alıştırma
-- 200 Ödev
+- 500 Soru-Alıştırma
 - 10+ Gerçek Hayat Veri Bilimi Projesi
-- 4 Uçtan-Uca Gerçek Hayat Veri Bilimi Projesi
 - 1 Kurs Bitirme Projesi
 
 ## Eğitimde hangi projeler yapılacak?
