@@ -14,7 +14,7 @@ Data Science and Machine Learning Bootcamp
 
 - Derslerin özel prodüksiyon video formatları bir platform aracılığı ile ücretsiz olarak sunulacaktır. Böylece katılımcılar kursa katılımlarını kendi uygunluklarına göre planlayabilecektir. Diğer bir ifade ile online-canlı tüm derslerin özenle hazırlanmış video kayıtları olacaktır.
 
-- Eğitim sonunda 15+ gerçek hayat veri bilimi projesi tamamlanmış olacaktır.
+- Eğitim sonunda 10+ gerçek hayat veri bilimi projesi tamamlanmış olacaktır.
 
 - Eğitim ile programlama, veri tabanları, makine öğrenmesi, büyük veri, istatistik ve diğer birçok veri bilimi bileşeni ele alınacaktır.
 
