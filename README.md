@@ -39,7 +39,7 @@ Data Science and Machine Learning Bootcamp
 
 - Deneyimli bir veri bilimciden sektörün beklentilerine yönelik projelerle dolu bir eğitim olacaktır.
 
-- Eğitim sonunda Geleceği Yazanlar platformu üzerinden **19 adet** sertifika verilecektir.
+- Eğitim sonunda Geleceği Yazanlar platformu üzerinden **19 adet** sertifika alma imkanınız olacaktır.
 
 
 Başvuru:
