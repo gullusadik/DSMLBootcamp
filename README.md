@@ -29,10 +29,12 @@ Eğitime katılım için başvuru formunun doldurulması gerekmektedir. [Başvur
 
 # Neden Bu Program?
 
-- Katılımcılara 4400 TL değerinde online eğitim hediye edilecektir ve ömür boyu erişim imkanı olacaktır.
-- Birlikte öğrenme ve topluluk gücünden faydalanma.
-- Personal marketing ve iş arama sürecinde profesyonel destek.
-- Deneyimli bir veri bilimciden sektörün beklentilerine yönelik projelerle dolu bir eğitim.
+- Sıfırdan başlayanlar için uygundur. 
+- Katılımcılara yaklaşık 4000 TL değerinde online eğitim hediye edilecektir ve ömür boyu erişim imkanı olacaktır.
+- Code review ve production level data science konuları ile profesyonel seviyede data science öğreneceksiniz.
+- Birlikte öğrenme ve topluluk gücünden faydalanma imkanı olacaktır.
+- Personal marketing ve iş arama sürecinde profesyonel destek sağlanacaktır.
+- Deneyimli bir veri bilimciden sektörün beklentilerine yönelik projelerle dolu bir eğitim olacaktır.
 
 
 # Detaylı Bilgi Alabilir miyim?
