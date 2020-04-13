@@ -18,6 +18,11 @@
 
 - Eğitim 1 Haziran 2020 - 17 Eylül 2020 arasında gerçekleşecektir. (16 Hafta)
 
+## Eğitim ücreti nedir?
+
+Tam zamanlı çalışanlar için: 750 Euro (KDV yoktur Stockholm merkezli şirketimizden fatura edilecektir)
+
+Öğrenciler için: 500 Euro (öğrenciler sınav ile alınacaktır)
 
 # Neden Bu Program?
 
