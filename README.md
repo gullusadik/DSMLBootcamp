@@ -26,11 +26,19 @@ Data Science and Machine Learning Bootcamp
 # Neden Bu Program?
 
 - Sıfırdan başlayanlar için uygundur. 
+
+- Online-uzaktan eğitimde deneyimli bir ekip ile çalışma imkanı.
+
 - Katılımcılara **yaklaşık 4000 TL değerinde** online eğitim hediye edilecektir ve ömür boyu erişim imkanı olacaktır.
+
 - Code review ve **production level data science** konuları ile profesyonel seviyede data science öğreneceksiniz.
+
 - Birlikte öğrenme ve topluluk gücünden faydalanma imkanı olacaktır.
+
 - **Personal marketing** ve iş arama sürecinde profesyonel destek sağlanacaktır.
+
 - Deneyimli bir veri bilimciden sektörün beklentilerine yönelik projelerle dolu bir eğitim olacaktır.
+
 - Eğitim sonunda Geleceği Yazanlar platformu üzerinden **19 adet** sertifika verilecektir.
 
 
