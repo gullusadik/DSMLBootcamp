@@ -1,4 +1,4 @@
-2020 1. dönem kayıtları kapanmıştır. 2. dönem ön kayıt için dsmlbc2020@gmail.com adresine mail atınız ya da aşağıdaki formu doldurunuz:
+2020 2. dönem kayıtları başlamıştır. 
 
 [Başvuru formunu doldur](https://docs.google.com/forms/d/e/1FAIpQLScXBuvPeOnoXrqZ8UpvmCrU4AkkVS73EZQsKUJ6oX5EBuZx-w/viewform?usp=sf_link)
 
@@ -6,42 +6,55 @@
 # DSMLBC
 Data Science and Machine Learning Bootcamp
 
-# Özet 
+# Özet Bilgi Alabilir miyim?
 
 - Eğitim Veri Bilimi ve Yapay Zeka alanında eğitim ve danışmanlık hizmetleri veren [Veri Bilimi Okulu](https://www.veribilimiokulu.com) ve [Mustafa Vahit Keskin](https://www.linkedin.com/in/mvahitkeskin/) tarafından online-canlı olarak verilecektir.
 
 - Hızlandırılmış online-canlı ve mentor destekli Veri Bilimi Uzmanlığı programıdır.
 
-- Derslerin özel prodüksiyon video formatları bir platform aracılığı ile ücretsiz olarak sunulacaktır. Böylece katılımcılar kursa katılımlarını kendi uygunluklarına göre planlayabilecektir. Diğer bir ifade ile online-canlı tüm derslerin özenle hazırlanmış video kayıtları olacaktır.
+- Eğitim sonunda 10+ gerçek hayat veri bilimi projesi tamamlanmış olacaktır. Sektörün ihtiyaçlarına göre belirlenmiş bu projeler birçok farklı sektöre hitap etmektedir.
 
-- Eğitim sonunda 10+ gerçek hayat veri bilimi projesi tamamlanmış olacaktır.
+- Katılımcılara yaklaşık 4000 TL değerinde online eğitim hediye edilecektir ve ömür boyu erişim imkanı olacaktır.
 
-- Eğitim ile programlama, veri tabanları, makine öğrenmesi, büyük veri, istatistik ve diğer birçok veri bilimi bileşeni ele alınacaktır.
+- Video dersler sayesinde katılamadığınız derslerin telafi imkanı vardır. Böylece katılımcılar kursa katılımlarını kendi uygunluklarına göre planlayabilecektir. Diğer bir ifade ile online-canlı tüm derslerin özenle hazırlanmış video kayıtları olacaktır.
 
-- Eğitim 28 Ocak 2020 - 22 Nisan 2020 arasında gerçekleşecektir. 
+- Eğitim ile Python, veri tabanları, makine öğrenmesi, büyük veri, istatistik ve diğer birçok veri bilimi bileşeni ele alınacaktır.
+
+- Eğitim 1 Haziran 2020 - 17 Eylül 2020 arasında gerçekleşecektir. (16 Hafta)
 
 Başvuru:
 
 Eğitime katılım için başvuru formunun doldurulması gerekmektedir. [Başvur](https://docs.google.com/forms/d/e/1FAIpQLScXBuvPeOnoXrqZ8UpvmCrU4AkkVS73EZQsKUJ6oX5EBuZx-w/viewform?usp=sf_link)
 
 
-# Detaylı Bilgiler
+# Neden Bu Program?
 
-## Eğitim kaç saat? 
+- Katılımcılara 4400 TL değerinde online eğitim hediye edilecektir ve ömür boyu erişim imkanı olacaktır.
+- Birlikte öğrenme ve topluluk gücünden faydalanma.
+- Personal marketing ve iş arama sürecinde profesyonel destek.
+- Deneyimli bir veri bilimciden sektörün beklentilerine yönelik projelerle dolu bir eğitim.
 
-- 60 Saat Online Canlı Eğitim
-- 30 Saat Problem Çözümü
-- 30 Saat Ofis Saati Buluşması
 
-## Problem çözümü ne anlama gelmektedir?
+# Detaylı Bilgi Alabilir miyim?
 
-Eğitmen tarafından verilen ödevler, modül bitirme soruları ve projeler Problem Çözümü ve Ofis Saatlerinde mentorlar tarafından ele alınacaktır. (katılım zorunlu değildir)
+## Eğitim kaç hafta ve toplam kaç saat? 
+
+Toplam 16 hafta 144 saat eğitim.
+
+- 96 Saat Online-Canlı Eğitim 
+- 48 Saat Mentor Görüşmesi
+
+
+## Mentorlar tam olarak ne yapacaktır?
+
+Eğitmen tarafından verilen ödevler, modül bitirme soruları ve projeler mentor görüşmelerinde ele alınacaktır (katılım zorunlu değildir)
 
 ## Ödev, modül bitirme sorusu ve projeler ile ilgili bilgi verebilir misiniz?
 
 - 500 Soru-Alıştırma
 - 10+ Gerçek Hayat Veri Bilimi Projesi
-- 1 Kurs Bitirme Projesi
+- 2 Kurs Bitirme Projesi
+
 
 ## Eğitimde hangi projeler yapılacak?
 
@@ -92,6 +105,7 @@ içerik üretme stratejileri gibi konularda modern kariyer koçluğu
 * Veri Tabanları ve SQL 
 * Büyük Veri Analitiği
 * Veri Bilimi Proje Yönetimi
+* Production Level Data Science
 
 ## Eğitimin hedef kitlesi kimdir?
 
@@ -109,20 +123,11 @@ Bununla birlikte mentorların haftalık düzenleyeceği problem çözümü ofis 
 
 ## Eğitim ne kadar sürecek?
 
-Eğitim 28 Ocak tarihinde başlayacak ve 22 Nisan tarihinde tamamlanacaktır. (Süreler değişebilecektir)
+Eğitim 1 Haziran tarihinde başlayacak ve 17 Eylül tarihinde tamamlanacaktır.(Süreler değişebilecektir)
 
 ## Eğitim nerede gerçekleştirilecektir?
 
-Eğitim online-canlı olarak gerçekleştirilecektir. Dersler zoom benzeri ortamlarda gerçekleştirilecektir.
-
-
-## “Kendi programını kendin belirle” sistemi nasıl işleyecek?
-
-Online-canlı derslerde ele alınacak olan konuların birebir video versiyonları kullanılabilecek. Videolar ücretsiz erişim imkanı verecek olduğumuz online eğitim sistemimizde yer alacak. Böylece haftalık online-canlı derslere katılamayanlar derslerin birebir video versiyonlarını izleyerek programdan geri kalmamış olacaklar.
-
-Bu sistemin bir diğer faydası online-canlı derslerde yeterli verimi alamayanlar istedikleri kadar tekrar etme imkanı ile video dersleri izleyebilecekler.
-
-Not: Videolar derslerin kayıtları değil özenle hazırlanmış video eğitim dersleri olacak. Bu içerikler online-canlı derslerde anlatılan derslerin birebir aynı içerikleri olacaktır.
+Eğitim online-canlı olarak Microsoft Teams üzerinde gerçekleştirilecektir.
 
 
 # Başvuru:
