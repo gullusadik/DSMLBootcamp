@@ -22,10 +22,6 @@ Data Science and Machine Learning Bootcamp
 
 - Eğitim 1 Haziran 2020 - 17 Eylül 2020 arasında gerçekleşecektir. (16 Hafta)
 
-Başvuru:
-
-Eğitime katılım için başvuru formunun doldurulması gerekmektedir. [Başvur](https://docs.google.com/forms/d/e/1FAIpQLScXBuvPeOnoXrqZ8UpvmCrU4AkkVS73EZQsKUJ6oX5EBuZx-w/viewform?usp=sf_link)
-
 
 # Neden Bu Program?
 
@@ -35,6 +31,12 @@ Eğitime katılım için başvuru formunun doldurulması gerekmektedir. [Başvur
 - Birlikte öğrenme ve topluluk gücünden faydalanma imkanı olacaktır.
 - Personal marketing ve iş arama sürecinde profesyonel destek sağlanacaktır.
 - Deneyimli bir veri bilimciden sektörün beklentilerine yönelik projelerle dolu bir eğitim olacaktır.
+
+
+Başvuru:
+
+Eğitime katılım için başvuru formunun doldurulması gerekmektedir. [Başvur](https://docs.google.com/forms/d/e/1FAIpQLScXBuvPeOnoXrqZ8UpvmCrU4AkkVS73EZQsKUJ6oX5EBuZx-w/viewform?usp=sf_link)
+
 
 
 # Detaylı Bilgi Alabilir miyim?
