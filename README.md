@@ -2,15 +2,11 @@
 
 [Başvuru formunu doldur](https://docs.google.com/forms/d/e/1FAIpQLScXBuvPeOnoXrqZ8UpvmCrU4AkkVS73EZQsKUJ6oX5EBuZx-w/viewform?usp=sf_link)
 
-
-# DSMLBC
-Data Science and Machine Learning Bootcamp
-
 # Özet Bilgi Alabilir miyim?
 
-- Eğitim Veri Bilimi ve Yapay Zeka alanında eğitim ve danışmanlık hizmetleri veren [Veri Bilimi Okulu](https://www.veribilimiokulu.com) ve [Mustafa Vahit Keskin](https://www.linkedin.com/in/mvahitkeskin/) tarafından online-canlı olarak verilecektir.
+- Hızlandırılmış online-canlı ve mentor destekli Veri Bilimci Yetiştirme programıdır.
 
-- Hızlandırılmış online-canlı ve mentor destekli Veri Bilimi Uzmanlığı programıdır.
+- Eğitim Veri Bilimi ve Yapay Zeka alanında eğitim ve danışmanlık hizmetleri veren [Veri Bilimi Okulu](https://www.veribilimiokulu.com) ve [Mustafa Vahit Keskin](https://www.linkedin.com/in/mvahitkeskin/) tarafından online-canlı olarak verilecektir.
 
 - Eğitim sonunda 10+ gerçek hayat veri bilimi projesi tamamlanmış olacaktır. Sektörün ihtiyaçlarına göre belirlenmiş bu projeler birçok farklı sektöre hitap etmektedir.
 
@@ -90,6 +86,10 @@ Eğitmen tarafından verilen ödevler, modül bitirme soruları ve projeler ment
 - Beyzbol Oyuncuları için Maaş Tahmin Modeli
 - ABD Eyalet Segmentasyonu
 
+## Eğitim ücreti nedir?
+
+Tam zamanlı çalışanlar için: 750 Euro (KDV yoktur Stockholm merkezli şirketimizden fatura edilecektir)
+Öğrenciler için: 500 Euro (öğrenciler sınav ile alınacaktır)
 
 ## Eğitim nasıl ele alınacak?
 
