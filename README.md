@@ -20,9 +20,9 @@
 
 ## Eğitim ücreti nedir?
 
-Tam zamanlı çalışanlar için: 750 Euro (KDV yoktur Stockholm merkezli şirketimizden fatura edilecektir)
+Tam zamanlı çalışanlar için: 1000 Euro (KDV yoktur Stockholm merkezli şirketimizden fatura edilecektir)
 
-Öğrenciler için: 500 Euro (öğrenciler sınav ile alınacaktır)
+Öğrenciler için: 750 Euro (öğrenciler sınav ile alınacaktır)
 
 # Neden Bu Program?
 
