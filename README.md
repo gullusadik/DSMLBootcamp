@@ -93,9 +93,9 @@ Eğitmen tarafından verilen ödevler, modül bitirme soruları ve projeler ment
 
 ## Eğitim ücreti nedir?
 
-Tam zamanlı çalışanlar için: 750 Euro (KDV yoktur Stockholm merkezli şirketimizden fatura edilecektir)
+Tam zamanlı çalışanlar için: 1000 Euro (KDV yoktur Stockholm merkezli şirketimizden fatura edilecektir)
 
-Öğrenciler için: 500 Euro (öğrenciler sınav ile alınacaktır)
+Öğrenciler için: 750 Euro 
 
 ## Eğitim nasıl ele alınacak?
 
