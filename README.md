@@ -1,5 +1,11 @@
 2020 3. dönem kayıtları başlamıştır. 
 
+ÖNEMLİ NOT! 
+
+ÖDEME İŞLEMİNİ TAMAMLAYANLARIN KAYDI KESİNLEŞTİRİLECEKTİR. 
+
+KONTENJAN SINIRI VARDIR. KAYIT KESİNLEŞTİRME SIRASINA GÖRE ÖNCELİK VERİLECEKTİR.
+
 [Başvuru formunu doldur](https://docs.google.com/forms/d/e/1FAIpQLScXBuvPeOnoXrqZ8UpvmCrU4AkkVS73EZQsKUJ6oX5EBuZx-w/viewform?usp=sf_link)
 
 # Özet Bilgi Alabilir miyim?
