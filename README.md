@@ -1,4 +1,4 @@
-2020 2. dönem kayıtları başlamıştır. 
+2020 3. dönem kayıtları başlamıştır. 
 
 [Başvuru formunu doldur](https://docs.google.com/forms/d/e/1FAIpQLScXBuvPeOnoXrqZ8UpvmCrU4AkkVS73EZQsKUJ6oX5EBuZx-w/viewform?usp=sf_link)
 
@@ -16,13 +16,13 @@
 
 - Eğitim ile Python, veri tabanları, makine öğrenmesi, büyük veri, istatistik ve diğer birçok veri bilimi bileşeni ele alınacaktır.
 
-- Eğitim 1 Haziran 2020 - 17 Eylül 2020 arasında gerçekleşecektir. (16 Hafta)
+- Eğitim 1 Eylül 2020 - 1 Ocak 2020 arasında gerçekleşecektir. 
 
 ## Eğitim ücreti nedir?
 
-Tam zamanlı çalışanlar için: 1000 Euro (KDV yoktur Stockholm merkezli şirketimizden fatura edilecektir)
+Tam zamanlı çalışanlar için: 1000 Euro (Stockholm merkezli şirketimizden fatura edilecektir)
 
-Öğrenciler için: 750 Euro (öğrenciler sınav ile alınacaktır)
+Öğrenciler için: 750 Euro 
 
 # Neden Bu Program?
 
@@ -54,10 +54,6 @@ Eğitime katılım için başvuru formunun doldurulması gerekmektedir. [Başvur
 ## Eğitim kaç hafta ve toplam kaç saat? 
 
 Toplam 16 hafta 144 saat eğitim.
-
-- 96 Saat Online-Canlı Eğitim 
-- 48 Saat Mentor Görüşmesi
-
 
 ## Mentorlar tam olarak ne yapacaktır?
 
@@ -93,7 +89,7 @@ Eğitmen tarafından verilen ödevler, modül bitirme soruları ve projeler ment
 
 ## Eğitim ücreti nedir?
 
-Tam zamanlı çalışanlar için: 1000 Euro (KDV yoktur Stockholm merkezli şirketimizden fatura edilecektir)
+Tam zamanlı çalışanlar için: 1000 Euro (Stockholm merkezli şirketimizden fatura edilecektir)
 
 Öğrenciler için: 750 Euro 
 
@@ -142,7 +138,7 @@ Bununla birlikte mentorların haftalık düzenleyeceği problem çözümü ofis 
 
 ## Eğitim ne kadar sürecek?
 
-Eğitim 1 Haziran tarihinde başlayacak ve 17 Eylül tarihinde tamamlanacaktır.(Süreler değişebilecektir)
+Eğitim 1 Eylül tarihinde başlayacak ve 1 Ocak 2021 tarihinde tamamlanacaktır.(Süreler değişebilecektir)
 
 ## Eğitim nerede gerçekleştirilecektir?
 
