@@ -16,8 +16,6 @@ KONTENJAN SINIRI VARDIR. KATILIMCILARA KAYIT KESİNLEŞTİRME SIRASINA GÖRE ÖN
 
 - Eğitim sonunda 10+ gerçek hayat veri bilimi projesi tamamlanmış olacaktır. Sektörün ihtiyaçlarına göre belirlenmiş bu projeler birçok farklı sektöre hitap etmektedir.
 
-- Katılımcılara yaklaşık 4000 TL değerinde online eğitim hediye edilecektir ve ömür boyu erişim imkanı olacaktır.
-
 - Video dersler sayesinde katılamadığınız derslerin telafi imkanı vardır. Böylece katılımcılar kursa katılımlarını kendi uygunluklarına göre planlayabilecektir. Diğer bir ifade ile online-canlı tüm derslerin özenle hazırlanmış video kayıtları olacaktır.
 
 - Eğitim ile Python, veri tabanları, makine öğrenmesi, büyük veri, istatistik ve diğer birçok veri bilimi bileşeni ele alınacaktır.
