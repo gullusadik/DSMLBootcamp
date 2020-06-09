@@ -24,9 +24,9 @@ KONTENJAN SINIRI VARDIR. KATILIMCILARA KAYIT KESİNLEŞTİRME SIRASINA GÖRE ÖN
 
 ## Eğitim ücreti nedir?
 
-Tam zamanlı çalışanlar için: 1000 Euro (Stockholm merkezli şirketimizden fatura edilecektir)
+Tam zamanlı çalışanlar için: 750 Euro (Stockholm merkezli şirketimizden fatura edilecektir)
 
-Öğrenciler için: 750 Euro 
+Öğrenciler için: 500 Euro 
 
 # Neden Bu Program?
 
@@ -93,9 +93,9 @@ Eğitmen tarafından verilen ödevler, modül bitirme soruları ve projeler ment
 
 ## Eğitim ücreti nedir?
 
-Tam zamanlı çalışanlar için: 1000 Euro (Stockholm merkezli şirketimizden fatura edilecektir)
+Tam zamanlı çalışanlar için: 750 Euro (Stockholm merkezli şirketimizden fatura edilecektir)
 
-Öğrenciler için: 750 Euro 
+Öğrenciler için: 500 Euro 
 
 ## Eğitim nasıl ele alınacak?
 
