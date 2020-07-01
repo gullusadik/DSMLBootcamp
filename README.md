@@ -30,8 +30,6 @@ Tam zamanlı çalışanlar için: 750 Euro + KDV (Stockholm merkezli şirketimiz
 
 # Neden Bu Program?
 
-- Sıfırdan başlayanlar için uygundur. 
-
 - Online-uzaktan eğitimde deneyimli bir ekip ile çalışma imkanı.
 
 - Katılımcılara **yaklaşık 4000 TL değerinde** online eğitim hediye edilecektir ve ömür boyu erişim imkanı olacaktır.
