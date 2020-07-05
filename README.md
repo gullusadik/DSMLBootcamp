@@ -57,7 +57,7 @@ Toplam 16 hafta 200+ saat eğitim.
 Eğitmen tarafından verilen ödevler, modül bitirme soruları ve projeler mentor görüşmelerinde ele alınacaktır (katılım zorunlu değildir)
 
 
-## Eğitimde hangi projeler yapılacak?
+## Eğitimde hangi projeler yapılacak? Bazıları:
 
 - Birliktelik Analizi ve Tavsiye Sistemleri
 - RFM Analizi ile Müşteri Segmentasyonu
