@@ -12,8 +12,6 @@ KONTENJAN SINIRI VARDIR. KATILIMCILARA KAYIT KESİNLEŞTİRME SIRASINA GÖRE ÖN
 
 - Hızlandırılmış online-canlı ve mentor destekli Veri Bilimci Yetiştirme programıdır.
 
-- Eğitim Veri Bilimi ve Yapay Zeka alanında eğitim ve danışmanlık hizmetleri veren [Veri Bilimi Okulu](https://www.veribilimiokulu.com) ve [Mustafa Vahit Keskin](https://www.linkedin.com/in/mvahitkeskin/) tarafından online-canlı olarak verilecektir.
-
 - Eğitim sonunda 10+ gerçek hayat veri bilimi projesi tamamlanmış olacaktır. Sektörün ihtiyaçlarına göre belirlenmiş bu projeler birçok farklı sektöre hitap etmektedir.
 
 - Video dersler sayesinde katılamadığınız derslerin telafi imkanı vardır. Böylece katılımcılar kursa katılımlarını kendi uygunluklarına göre planlayabilecektir. Diğer bir ifade ile online-canlı tüm derslerin video kayıtları olacaktır.
