@@ -16,11 +16,11 @@ KONTENJAN SINIRI VARDIR. KATILIMCILARA KAYIT KESİNLEŞTİRME SIRASINA GÖRE ÖN
 
 - Eğitim sonunda 10+ gerçek hayat veri bilimi projesi tamamlanmış olacaktır. Sektörün ihtiyaçlarına göre belirlenmiş bu projeler birçok farklı sektöre hitap etmektedir.
 
-- Video dersler sayesinde katılamadığınız derslerin telafi imkanı vardır. Böylece katılımcılar kursa katılımlarını kendi uygunluklarına göre planlayabilecektir. Diğer bir ifade ile online-canlı tüm derslerin özenle hazırlanmış video kayıtları olacaktır.
+- Video dersler sayesinde katılamadığınız derslerin telafi imkanı vardır. Böylece katılımcılar kursa katılımlarını kendi uygunluklarına göre planlayabilecektir. Diğer bir ifade ile online-canlı tüm derslerin video kayıtları olacaktır.
 
 - Eğitim ile Python, veri tabanları, makine öğrenmesi, büyük veri, istatistik ve diğer birçok veri bilimi bileşeni ele alınacaktır.
 
-- Eğitim 1 Eylül 2020 - 1 Ocak 2020 arasında gerçekleşecektir. 
+- Eğitim 1 Eylül 2020 - 25 Aralık 2020 arasında gerçekleşecektir. 
 
 ## Eğitim ücreti nedir?
 
@@ -32,13 +32,11 @@ Tam zamanlı çalışanlar için: 750 Euro + KDV (Stockholm merkezli şirketimiz
 
 - Online-uzaktan eğitimde deneyimli bir ekip ile çalışma imkanı.
 
-- Katılımcılara **yaklaşık 4000 TL değerinde** online eğitim hediye edilecektir ve ömür boyu erişim imkanı olacaktır.
-
 - Code review ve **production level data science** konuları ile profesyonel seviyede data science öğreneceksiniz.
 
 - Birlikte öğrenme ve topluluk gücünden faydalanma imkanı olacaktır.
 
-- **Personal marketing** ve iş arama sürecinde profesyonel destek sağlanacaktır.
+- **Personal marketing** ve iş arama konularında eğitim verilecektir.
 
 - Deneyimli bir veri bilimciden sektörün beklentilerine yönelik projelerle dolu bir eğitim olacaktır.
 
@@ -50,42 +48,30 @@ Başvuru:
 Eğitime katılım için başvuru formunun doldurulması gerekmektedir. [Başvur](https://docs.google.com/forms/d/e/1FAIpQLScXBuvPeOnoXrqZ8UpvmCrU4AkkVS73EZQsKUJ6oX5EBuZx-w/viewform?usp=sf_link)
 
 
-
 # Detaylı Bilgi Alabilir miyim?
 
 ## Eğitim kaç hafta ve toplam kaç saat? 
 
-Toplam 16 hafta 144 saat eğitim.
+Toplam 16 hafta 200+ saat eğitim.
 
 ## Mentorlar tam olarak ne yapacaktır?
 
 Eğitmen tarafından verilen ödevler, modül bitirme soruları ve projeler mentor görüşmelerinde ele alınacaktır (katılım zorunlu değildir)
 
-## Ödev, modül bitirme sorusu ve projeler ile ilgili bilgi verebilir misiniz?
-
-- 500 Soru-Alıştırma
-- 10+ Gerçek Hayat Veri Bilimi Projesi
-- 2 Kurs Bitirme Projesi
-
 
 ## Eğitimde hangi projeler yapılacak?
 
+- Birliktelik Analizi ve Tavsiye Sistemleri
+- RFM Analizi ile Müşteri Segmentasyonu
+- Maaş Tahmin Modeli
 - Makine Öğrenmesi ile Şeker Hastalığı Tahmini
 - Kurumsal Müşteri Terk Modellemesi
-- Duygu Sınıflandırma Modeli
 - Kredi Risk Modellemesi
+- AB Testi: Dönüşüm Oranı Testi
 - Fiyat Stratejisi Karar Destek Sistemi
-- Reklam Harcaması Optimizasyonu
-- İlan Girişi Hata Olasılıklarının Hesaplanması
-- Ürün Satış Olasılıklarının Hesaplanması
-- Ürün Satın Alma Adım Optimizasyonu
-- Web Sitesinde Geçirilen Sürenin Testi
-- Dönüşüm Oranı Testi
-- ML Modelinin Başarı Testi
-- Şirketiçi Eğitimin Performans Etkisi Ölçümü
-- Kullanıcı Arayüzü Tasarımı Testi
+- AB Testi: ML Modelinin Başarı Testi
+- Şirket içi Eğitimin Performans Etkisi Ölçümü
 - Anasayfa İçerik Stratejisi Belirleme
-- Reklam Harcamaları ve Satış Arasındaki İlişkinin Modellenmesi 
 - Beyzbol Oyuncuları için Maaş Tahmin Modeli
 - ABD Eyalet Segmentasyonu
 
@@ -101,8 +87,7 @@ Tam zamanlı çalışanlar için: 750 Euro (Stockholm merkezli şirketimizden fa
 
 - Mentor desteği: Tüm katılımcılara mentorlar tarafından birebir destek 
 
-- Kendi programını kendin belirle: Tüm derslerin özenle hazırlanmış
-  video versiyonları ile müsaitliğe göre çalışma imkanı
+- Kendi programını kendin belirle: Tüm derslerin video versiyonları ile müsaitliğe göre çalışma imkanı
 
 - Kariyer koçluğu: Etkili CV oluşturma, kişisel marka değeri ve
 içerik üretme stratejileri gibi konularda modern kariyer koçluğu
@@ -122,7 +107,7 @@ içerik üretme stratejileri gibi konularda modern kariyer koçluğu
 * Veri Tabanları ve SQL 
 * Büyük Veri Analitiği
 * Veri Bilimi Proje Yönetimi
-* Production Level Data Science
+* Production Level Data Science (git, github, model deployment)
 
 ## Eğitimin hedef kitlesi kimdir?
 
@@ -140,7 +125,7 @@ Bununla birlikte mentorların haftalık düzenleyeceği problem çözümü ofis 
 
 ## Eğitim ne kadar sürecek?
 
-Eğitim 1 Eylül tarihinde başlayacak ve 1 Ocak 2021 tarihinde tamamlanacaktır.(Süreler değişebilecektir)
+Eğitim 1 Eylül tarihinde başlayacak ve 25 Aralık 2020 tarihinde tamamlanacaktır.(Süreler değişebilecektir)
 
 ## Eğitim nerede gerçekleştirilecektir?
 
