@@ -1,9 +1,12 @@
 
 2021 Ocak ayı için program kayıtları başlamıştır.
 
+1 Aralık'ta ücretsiz ön hazırlık programı başlayacaktır. Bu programa sadece kayıt yaptıranlar katılabilecektir.
+
 ÖNEMLİ NOT! 
 
 KONTENJAN SINIRI VARDIR. KATILIMCILARA KAYIT KESİNLEŞTİRME SIRASINA GÖRE ÖNCELİK VERİLECEKTİR.
+
 
 [Başvuru formunu doldur](https://docs.google.com/forms/d/e/1FAIpQLScXBuvPeOnoXrqZ8UpvmCrU4AkkVS73EZQsKUJ6oX5EBuZx-w/viewform?usp=sf_link)
 
