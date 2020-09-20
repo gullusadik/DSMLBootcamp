@@ -1,8 +1,7 @@
-2020 3. dönem kayıtları başlamıştır. 
+
+2021 Ocak ayı için program kayıtları başlamıştır.
 
 ÖNEMLİ NOT! 
-
-ÖDEME İŞLEMİNİ TAMAMLAYANLARIN KAYDI KESİNLEŞTİRİLECEKTİR. 
 
 KONTENJAN SINIRI VARDIR. KATILIMCILARA KAYIT KESİNLEŞTİRME SIRASINA GÖRE ÖNCELİK VERİLECEKTİR.
 
@@ -12,25 +11,29 @@ KONTENJAN SINIRI VARDIR. KATILIMCILARA KAYIT KESİNLEŞTİRME SIRASINA GÖRE ÖN
 
 - Hızlandırılmış online-canlı ve mentor destekli Veri Bilimci Yetiştirme programıdır.
 
-- Eğitim sonunda 10+ gerçek hayat veri bilimi projesi tamamlanmış olacaktır. Sektörün ihtiyaçlarına göre belirlenmiş bu projeler birçok farklı sektöre hitap etmektedir.
+- Eğitim sonunda 10+ gerçek hayat veri bilimi projesi tamamlanmış olacaktır. 
+
+- Eğitimin son ayında (Nisan) katılımcılar geliştirecekleri final projesi ile gerçek hayata uygun development süreci deneyimleyecekler.
 
 - Video dersler sayesinde katılamadığınız derslerin telafi imkanı vardır. Böylece katılımcılar kursa katılımlarını kendi uygunluklarına göre planlayabilecektir. Diğer bir ifade ile online-canlı tüm derslerin video kayıtları olacaktır.
 
-- Eğitim ile Python, veri tabanları, makine öğrenmesi, büyük veri, istatistik ve diğer birçok veri bilimi bileşeni ele alınacaktır.
-
-- Eğitim 1 Eylül 2020 - 25 Aralık 2020 arasında gerçekleşecektir. 
+- Eğitim 1 Ocak 2021 - 1 Mayıs 2021 arasında gerçekleşecektir. 
 
 ## Eğitim ücreti nedir?
 
-Tam zamanlı çalışanlar için: 750 Euro + KDV 
+Bireysel: 1250 Euro + KDV 
 
-Öğrenciler için: 500 Euro + KDV
+Kurumsal: 1500 Euro + KDV
+
+Öğrenciler: 750 Euro + KDV
 
 # Neden Bu Program?
 
 - Online-uzaktan eğitimde deneyimli bir ekip ile çalışma imkanı.
 
 - Code review ve **production level data science** konuları ile profesyonel seviyede data science öğreneceksiniz.
+
+- Türkçe olarak hiçbir online ya da in-class eğitimde bulunmayan özgün içeriklerle gerçek hayata uygun bir süreç deneyimleyeceksiniz.
 
 - Birlikte öğrenme ve topluluk gücünden faydalanma imkanı olacaktır.
 
@@ -56,7 +59,6 @@ Toplam 16 hafta 200+ saat eğitim.
 
 Eğitmen tarafından verilen ödevler, modül bitirme soruları ve projeler mentor görüşmelerinde ele alınacaktır (katılım zorunlu değildir)
 
-
 ## Eğitimde hangi projeler yapılacak? Bazıları:
 
 - Birliktelik Analizi ve Tavsiye Sistemleri
@@ -73,11 +75,6 @@ Eğitmen tarafından verilen ödevler, modül bitirme soruları ve projeler ment
 - Beyzbol Oyuncuları için Maaş Tahmin Modeli
 - ABD Eyalet Segmentasyonu
 
-## Eğitim ücreti nedir?
-
-Tam zamanlı çalışanlar için: 750 Euro + KDV 
-
-Öğrenciler için: 500 Euro + KDV
 
 ## Eğitim nasıl ele alınacak?
 
@@ -121,9 +118,6 @@ Eğitimde tüm modüllerin sonlarında bölüm tamamlama soruları, ödevler ve 
 
 Bununla birlikte mentorların haftalık düzenleyeceği problem çözümü ofis saatleri ile katılımcıların bir sonraki derse geçmeden önce tüm problemleri çözülmüş olacak.
 
-## Eğitim ne kadar sürecek?
-
-Eğitim 1 Eylül tarihinde başlayacak ve 25 Aralık 2020 tarihinde tamamlanacaktır.(Süreler değişebilecektir)
 
 ## Eğitim nerede gerçekleştirilecektir?
 
