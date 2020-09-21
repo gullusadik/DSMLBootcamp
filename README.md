@@ -20,7 +20,7 @@ KONTENJAN SINIRI VARDIR. KATILIMCILARA KAYIT KESİNLEŞTİRME SIRASINA GÖRE ÖN
 
 - Video dersler sayesinde katılamadığınız derslerin telafi imkanı vardır. Böylece katılımcılar kursa katılımlarını kendi uygunluklarına göre planlayabilecektir. Diğer bir ifade ile online-canlı tüm derslerin video kayıtları olacaktır.
 
-- Eğitim 1 Ocak 2021 - 1 Mayıs 2021 arasında gerçekleşecektir. 
+- Eğitim 1 Ocak 2021 - 1 Mayıs 2021 arasında gerçekleşecektir. (Programın son ayında katılımcılar mentor eşliğinde proje geliştirmektedir)
 
 ## Eğitim ücreti nedir?
 
@@ -105,7 +105,7 @@ içerik üretme stratejileri gibi konularda modern kariyer koçluğu
 * Veri Tabanları ve SQL 
 * Büyük Veri Analitiği
 * Veri Bilimi Proje Yönetimi
-* Production Level Data Science (git, github, model deployment)
+* Production Level Data Science (git, github, linux, makefile, flask, model deployment)
 
 ## Eğitimin hedef kitlesi kimdir?
 
