@@ -24,11 +24,11 @@ KONTENJAN SINIRI VARDIR. KATILIMCILARA KAYIT KESİNLEŞTİRME SIRASINA GÖRE ÖN
 
 ## Eğitim ücreti nedir?
 
-Bireysel: 1250 Euro + KDV 
+Bireysel: 950 Euro + KDV 
 
-Kurumsal: 1500 Euro + KDV
+Kurumsal: 1250 Euro + KDV
 
-Öğrenciler: 750 Euro + KDV
+Öğrenciler: 550 Euro + KDV
 
 # Neden Bu Program?
 
