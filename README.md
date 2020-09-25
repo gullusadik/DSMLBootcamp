@@ -26,17 +26,17 @@ KONTENJAN SINIRI VARDIR. KATILIMCILARA KAYIT KESİNLEŞTİRME SIRASINA GÖRE ÖN
 
 ## Eğitim ücreti nedir?
 
-Bireysel: 950 Euro + KDV 
+Bireysel: 950 Euro + KDV (8075 TL + KDV ) 
 
-Kurumsal: 1250 Euro + KDV
+Kurumsal: 1250 Euro + KDV (10625 TL + KDV)
 
-Öğrenciler: 550 Euro + KDV
+Öğrenci: 550 Euro + KDV (4675 TL + KDV)
 
-## Erken Kayıt Dönemine Özel İndirimler Sonrası Fiyatlar:
+## Erken Kayıt Dönemine Özel İndirimler Sonrası Fiyatlar:
 
 Bireysel: 7325 TL
 
-Kurumsal: 9875 TL + KDV
+Kurumsal: 9875 TL 
 
 Öğrenci: 3925 TL
 
