@@ -32,6 +32,15 @@ Kurumsal: 1250 Euro + KDV
 
 Öğrenciler: 550 Euro + KDV
 
+## Erken Kayıt Dönemine Özel İndirimler Sonrası Fiyatlar:
+
+Bireysel: 7325 TL
+
+Kurumsal: 9875 TL + KDV
+
+Öğrenci: 3925 TL
+
+
 # Neden Bu Program?
 
 - Online-uzaktan eğitimde deneyimli bir ekip ile çalışma imkanı.
