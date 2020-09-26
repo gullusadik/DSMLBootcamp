@@ -1,5 +1,5 @@
 
-2021 Ocak ayı için program kayıtları başlamıştır.
+2020 programı kayıtları tamamlanmıştır. 2021 Ocak ayı için program kayıtları başlamıştır.
 
 1 Aralık'ta ücretsiz ön hazırlık programı başlayacaktır. Bu programa sadece kayıt yaptıranlar katılabilecektir.
 
