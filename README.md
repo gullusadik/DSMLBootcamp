@@ -13,8 +13,6 @@ KONTENJAN SINIRI VARDIR. KATILIMCILARA KAYIT KESİNLEŞTİRME SIRASINA GÖRE ÖN
 
 - Hızlandırılmış online-canlı ve mentor destekli Veri Bilimci Yetiştirme programıdır.
 
-- Linux, Makefile, PySpark, ML Pipeline, Flask, CI/CD, Docker, AWS ve GCP gibi konularla large scale data science konusunda eşsiz bir öğrenme deneyimi yaşayacaksınız.
-
 - Eğitim sonunda 10+ gerçek hayat veri bilimi projesi tamamlanmış olacaktır. 
 
 - Eğitimin son ayında (Nisan) katılımcılar geliştirecekleri final projesi ile gerçek hayata uygun development süreci deneyimleyecekler.
