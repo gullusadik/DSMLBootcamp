@@ -52,8 +52,6 @@ Kurumsal: 9875 TL
 
 - Deneyimli bir veri bilimciden sektörün beklentilerine yönelik projelerle dolu bir eğitim olacaktır.
 
-- Eğitim sonunda Geleceği Yazanlar platformu üzerinden **19 adet** sertifika alma imkanınız olacaktır.
-
 
 Başvuru:
 
@@ -74,7 +72,7 @@ Eğitmen tarafından verilen ödevler, modül bitirme soruları ve projeler ment
 
 - Birliktelik Analizi ve Tavsiye Sistemleri
 - RFM Analizi ile Müşteri Segmentasyonu
-- Maaş Tahmin Modeli
+- Ev fiyat tahmin modeli
 - Makine Öğrenmesi ile Şeker Hastalığı Tahmini
 - Kurumsal Müşteri Terk Modellemesi
 - Kredi Risk Modellemesi
@@ -83,8 +81,8 @@ Eğitmen tarafından verilen ödevler, modül bitirme soruları ve projeler ment
 - AB Testi: ML Modelinin Başarı Testi
 - Şirket içi Eğitimin Performans Etkisi Ölçümü
 - Anasayfa İçerik Stratejisi Belirleme
-- Beyzbol Oyuncuları için Maaş Tahmin Modeli
-- ABD Eyalet Segmentasyonu
+- AWS ve Google Cloud'da çalışma ortamı oluşturma
+- PyCharm ile large scale proje geliştirme
 
 
 ## Eğitim nasıl ele alınacak?
