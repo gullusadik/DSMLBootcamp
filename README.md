@@ -72,13 +72,13 @@ Eğitmen tarafından verilen ödevler, modül bitirme soruları ve projeler ment
 
 - Birliktelik Analizi ve Tavsiye Sistemleri
 - RFM Analizi ile Müşteri Segmentasyonu
+- AB Testi: Dönüşüm Oranı Testi
+- AB Testi: ML Modelinin Başarı Testi
 - Ev fiyat tahmin modeli
 - Makine Öğrenmesi ile Şeker Hastalığı Tahmini
 - Kurumsal Müşteri Terk Modellemesi
 - Kredi Risk Modellemesi
-- AB Testi: Dönüşüm Oranı Testi
 - Fiyat Stratejisi Karar Destek Sistemi
-- AB Testi: ML Modelinin Başarı Testi
 - Şirket içi Eğitimin Performans Etkisi Ölçümü
 - Anasayfa İçerik Stratejisi Belirleme
 - AWS ve Google Cloud'da çalışma ortamı oluşturma
